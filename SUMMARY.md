@@ -4,6 +4,7 @@
 
 ## Reading Notes
 
+* [Reading List](reading-notes/reading-list.md)
 * [LLM and GPU Cluster](reading-notes/llm-and-gpu-cluster/README.md)
   * [Cost-Efficiency in LLM](reading-notes/llm-and-gpu-cluster/cost-efficiency-in-llm.md)
   * [Page 6](reading-notes/llm-and-gpu-cluster/page-6.md)
