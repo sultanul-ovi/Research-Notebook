@@ -16,3 +16,14 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## Papers
+
+* [Page 2](papers/page-2/README.md)
+  * [Page 5](papers/page-2/page-5.md)
+  * [Page 3](papers/page-2/page-3.md)
+  * [Page](papers/page-2/page.md)
+
+## Reading Notes
+
+* [Page 4](reading-notes/page-4.md)
