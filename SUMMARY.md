@@ -5,7 +5,7 @@
 ## Conferences and Journals
 
 * [Distributed GPU Clustering](conferences-and-journals/distributed-gpu-clustering.md)
-* [Top AI + Data Conferences & Journals](conferences-and-journals/top-ai-+-data-conferences-and-journals.md)
+* [Top AI + Data Conferences & Journals](conferences-and-journals/ml-ai-conferences-and-journals.md)
 
 ## Reading Notes
 
@@ -17,9 +17,7 @@
 
 ## Papers
 
-* [Page 2](papers/page-2/README.md)
-  * [Page 3](papers/page-2/page-3.md)
-  * [Page](papers/page-2/page.md)
+* [Page](papers/page.md)
 
 ## Getting Started
 
