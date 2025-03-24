@@ -1,3 +1,8 @@
+---
+description: 🔥 Curated List of Top Conferences & Journals
+icon: bars-sort
+---
+
 # ML AI Conferences and Journals
 
 ***

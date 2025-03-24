@@ -4,6 +4,7 @@
 
 ## Conferences and Journals
 
+* [Distributed GPU Clustering](conferences-and-journals/distributed-gpu-clustering.md)
 * [ML AI Conferences and Journals](conferences-and-journals/ml-ai-conferences-and-journals.md)
 
 ## Reading Notes
