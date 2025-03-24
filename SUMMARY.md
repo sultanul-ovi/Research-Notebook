@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Conferences and Journals
+
+* [ML AI Conferences and Journals](conferences-and-journals/ml-ai-conferences-and-journals.md)
+
 ## Reading Notes
 
 * [Reading List](reading-notes/reading-list.md)
@@ -13,7 +17,6 @@
 ## Papers
 
 * [Page 2](papers/page-2/README.md)
-  * [Page 5](papers/page-2/page-5.md)
   * [Page 3](papers/page-2/page-3.md)
   * [Page](papers/page-2/page.md)
 
