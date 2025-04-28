@@ -15,20 +15,13 @@
   * [Page 6](reading-notes/llm-and-gpu-cluster/page-6.md)
   * [Page 4](reading-notes/llm-and-gpu-cluster/page-4.md)
 
-## Papers
-
-* [Page](papers/page.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Page 1](getting-started/page-1.md)
-
 ## Basics
 
-* [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+
+## Fragmentation Notes
+
+* [Page 2](fragmentation-notes/page-2.md)
